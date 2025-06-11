@@ -1,7 +1,7 @@
 <h1 align="center">[ ENCRYPT ]</h1>
 <h4 align="center">[ Simple Encrypt an ELF binary for file python/python3 with build deb package ]</h4>
 <p align="center">
-<a href="https://github.com/djunekz"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=github&label=AUTHOR&message=DJUNEKZ&color=blue")</a>
+<a href="https://github.com/djunekz"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=github&label=AUTHOR&message=DJUNEKZ&color=blue")</a><br>
 <a href="https://github.com/djunekz/encrypt/releases"><img alt="Latest Release" src="https://img.shields.io/github/release/djunekz/encrypt.svg" /></a><br>
 <img src="https://img.shields.io/static/v1?label=Android&logo=android&logoColor=green&color=green&message=Support&style=flat">
 		
