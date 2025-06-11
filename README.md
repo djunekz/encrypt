@@ -23,4 +23,4 @@ git clone https://github.com/djunekz/encrypt && cd encrypt && make install
 ```
 
 **Waiting installation successful**
-**then running usage** `encrypt yourfile.py` **for encrypt your file python, wait for the deb file creation process, if it is done, install the deb file resulting from your encryption by typing** `dpkg -i namefile.deb'
+**then running usage** `encrypt yourfile.py` **for encrypt your file python, wait for the deb file creation process, if it is done, install the deb file resulting from your encryption by typing** `dpkg -i namefile.deb`
