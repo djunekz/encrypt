@@ -14,9 +14,7 @@ Simple encrypt ELF binary for file python with building deb package. Please note
 
 ### **Instalation Process** 
 
-`apt install encrypt` or `pkg install encrypt` if you using termux
-
-or Manual and one command install?
+Manual and one command install?
 Copy Paste in your terminal
 ```
 git clone https://github.com/djunekz/encrypt && cd encrypt && make install
